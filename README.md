@@ -33,5 +33,5 @@ Je suis **Lolozaure**, un futur développeur full-stack passionné par le multim
 - **Développeur Fullstack** : Mon projet professionnel actuel est d'aspirer à être un futur développeur fullstack avec une bonne compréhension des outils nécessaires tels que HTML, CSS en front-end et PHP en back-end ! Et même les outils de la suite Adobe qui me permettront de créer mes propres icônes et le style de mon site web !
 
 ## 📫 Restons Connectés
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamdominguez68@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-dominguez-793a8b329/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamdominguez68@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-dominguez-793a8b329/)
