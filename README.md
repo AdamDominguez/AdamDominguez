@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub!
 
-I'm **LOLOZAURE**, a future full-stack developer with a passion for multimedia and web development and general modding in the Source Engine.
+I'm **Lolozaure**, a future full-stack developer with a passion for multimedia and web development and general modding in the Source Engine.
 
 ## 🛠️ Languages and Tools
 
