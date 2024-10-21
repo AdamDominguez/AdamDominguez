@@ -1,6 +1,4 @@
-![Header](./header.png)
-
-![Header](https://path_to_your_image/header.png)
+![Header]([https://path_to_your_image/header.png](https://imgur.com/N9E9gnl))
 
 # 👋 Welcome to My GitHub!
 
