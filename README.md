@@ -25,7 +25,12 @@ I'm **Lolozaure**, a future full-stack developer with a passion for multimedia a
 &nbsp;&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ## 🌟 Projects
+
+### Personnal Projects
 - **Star Wars-Themed RP City**: A roleplay project set in a futuristic city environment using the Helix framework on Garry's Mod.
+
+### Professional Projects
+- **Fullstack Developer**: My current professional project is that I aspire to be a future fullstack developper with great understanding of the required tools such as HTML, CSS in front-end and PHP in back-end! And even the adobe suite tools that will allow me to create my own icons and website style!
 
 ## 📫 Let's Connect
 - [Email](mailto:adamdominguez68@gmail.com)
