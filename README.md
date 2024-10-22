@@ -2,38 +2,28 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-Je suis **Lolozaure**, un futur développeur full-stack passionné par le multimédia, le développement web et le modding général dans le moteur Source.
+Je suis **Lolozaure**, votre futur développeur full-stack passionné par le multimédia, le développement web et le modding général dans le moteur Source.
 
 ## 🛠️ Langages et Outils
 
 ### 🌐 Langages de Programmation
 
 #### 💻 Langages Front-End
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 10px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-</div>
-
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 #### 🔙 Langages Back-End
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 10px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) &nbsp;&nbsp;
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;&nbsp;
-    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;&nbsp;
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-</div>
-
----
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ### 🎨 Outils Créatifs
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 10px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) &nbsp;&nbsp;
-    ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) &nbsp;&nbsp;
-    ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) &nbsp;&nbsp;
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-</div>
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ## 🌟 Projets
 
@@ -44,11 +34,5 @@ Je suis **Lolozaure**, un futur développeur full-stack passionné par le multim
 - **Développeur Fullstack** : Mon projet professionnel actuel est d'aspirer à être un futur développeur fullstack avec une bonne compréhension des outils nécessaires tels que HTML, CSS en front-end et PHP en back-end ! Et même les outils de la suite Adobe qui me permettront de créer mes propres icônes et le style de mon site web !
 
 ## 📫 Restons Connectés
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="mailto:adamdominguez68@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/adam-dominguez-793a8b329/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamdominguez68@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-dominguez-793a8b329/)
