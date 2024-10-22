@@ -9,14 +9,15 @@ Je suis **Lolozaure**, un futur développeur full-stack passionné par le multim
 ### Langages de Programmation
 
 #### Langages Front-End
-&nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+&nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  &nbsp;&nbsp;**80% maîtrisé**  
+&nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  &nbsp;&nbsp;**80% maîtrisé**  
+&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  &nbsp;&nbsp;**20% maîtrisé**  
 
 #### Langages Back-End
-&nbsp;&nbsp;&nbsp;&nbsp;![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  &nbsp;&nbsp;**50% maîtrisé**  
+&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  &nbsp;&nbsp;**100% maîtrisé**  
+&nbsp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  &nbsp;&nbsp;**40% maîtrisé**  
+&nbsp;&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  &nbsp;&nbsp;**10% maîtrisé**  
 
 ### Outils Créatifs
 &nbsp;&nbsp;&nbsp;&nbsp;![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
