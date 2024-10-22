@@ -2,7 +2,8 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-Je suis étudiant à l'IUT de Mulhouse en BUT MMI en 1ère année, passionné par le multimédia, le développement web et le modding général dans le moteur Source.
+Je suis étudiant à l'IUT de Mulhouse ![IUT de Mulhouse](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAsVBMVEVHcEzG5vZ8ye80redRuOlwxe4jp+W46Pni8fkrquZcu+pGtOm61up+yu/+//+J1fWHyeuOrc9dhLZXfrJ4nMVmweyv4/g4aacsYaJXfrJ7m8NagrUhWp99nsZxxO5vkr5Kdq5XuupOteiiutcgndxou+e2yN6jvdir1u5diLg+bKhJtepVuOlMeK8hbbAST5kyZKRAb6o+bamyyODB7/tukb0Uo+N+ncRKd69JdK2MqczvHmdqAAAAO3RSTlMAJZL+mIL/ERb/0/EtmQdUakWg42F6TNv/1qCq/3S/tuux3k3/7ESVH3392qDy///t3ek6Pc//xMHWjt7XCKMAAADISURBVHgB1clDYgRRAEDBN2jbGtv2/e8VO/mruLbFVyqVEatUEZJkBRFVkxDSDV4zVR5ZWolXJMPmgSO7gOcHQcgduxLxINbK4CVplhe1OrdcTX26BnazVpSAosWtdgeg2+26vf6gm6TD7ggYT2yA6QwwW/PFIkkmy9V6M98CxZpb0zbAblpxKNX2PNj43CofnJHb19oqg/TIg21tyy27ocmV9g6UyZ5HpzMPFMUGCBIeqReVV/JaCZFtLUTonCHk1UyEmmP+uWv5YQ7IIuQDqQAAAABJRU5ErkJggg==) IUT de Mulhouse
+ en BUT MMI en 1ère année, passionné par le multimédia, le développement web et le modding général dans le moteur Source.
 
 ## 🛠️ Langages et Outils
 
