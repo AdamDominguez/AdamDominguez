@@ -81,9 +81,9 @@ Je suis **Lolozaure**, un futur développeur full-stack passionné par le multim
 ## 📫 Restons Connectés
 <div>
     <a href="mailto:adamdominguez68@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Gmail_Icon.png" alt="Gmail" width="30" height="30" style="vertical-align: middle;"/>
     </a>
     <a href="https://www.linkedin.com/in/adam-dominguez-793a8b329/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.png" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/>
     </a>
 </div>
