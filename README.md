@@ -2,7 +2,7 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-Je suis **Lolozaure**, votre futur développeur full-stack passionné par le multimédia, le développement web et le modding général dans le moteur Source.
+Je suis **Adam DOMINGUEZ**, votre futur développeur full-stack passionné par le multimédia, le développement web et le modding général dans le moteur Source.
 
 ## 🛠️ Langages et Outils
 
