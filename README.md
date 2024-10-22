@@ -2,7 +2,8 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-Je suis étudiant à l'IUT de Mulhouse ![UHA Logo](https://i.imgur.com/F6TuMnH.png) en BUT MMI ![MMI Logo](https://i.imgur.com/Ib1Ldaj.png) en 1ère année, passionné par le multimédia, le développement web et le modding général dans le moteur Source.
+Je suis étudiant à l'IUT de Mulhouse ![UHA Logo](https://i.imgur.com/uPp6eHc.png) en BUT MMI ![MMI Logo](https://i.imgur.com/IQN0ubO.png) en 1ère année, passionné par le multimédia, le développement web et le modding général dans le moteur Source.
+
 ## 🛠️ Langages et Outils
 
 ### 🌐 Langages de Programmation
