@@ -1,6 +1,6 @@
-Hello there ! 
+Hello there! 
 
-I'm a student at the '**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi.png) in **BUT MMI** and currently in my first year. I'm also extremely passionate about the development of new technologies in multimedia and web development and also general modding in the Source Engine.
+I'm a student at the '**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi.png) in **BUT MMI** and currently in my first year. I'm also extremely passionate about the development of new technologies in multimedia and web development, as well as general modding in the Source Engine.
 
 # 🛠️ ACQUIRED TOOLS
 
@@ -27,10 +27,10 @@ I'm a student at the '**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi.
 # 🌟 PROJECTS
 
 ## 🚀 PERSONAL
-- **Ville RP sur le thème de Star Wars** : Un projet de jeu de rôle situé dans un environnement urbain futuriste utilisant le framework Helix sur Garry's Mod.
+- **Urban roleplay set in Star Wars** : A roleplay project set in the Star Wars universe during imperial occupation. Currently using the Helix framework on Garry's Mod.
 
 ## 🏆 PROFESSIONAL
-- **Développeur Fullstack** : Mon projet professionnel actuel est d'aspirer à être un futur développeur fullstack avec une bonne compréhension des outils nécessaires tels que HTML, CSS en front-end et PHP en back-end ! Et même les outils de la suite Adobe qui me permettront de créer mes propres icônes et le style de mon site web !
+- **Portfolio** : My current project is to create my portfolio website from scratch using various interactions and set in a Half-Life-themed UX/UI.
 
 # 📫 LINKS
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamdominguez68@gmail.com)  
