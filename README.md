@@ -4,7 +4,7 @@
 
 Je suis étudiant à l'**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi.png) en **BUT MMI** en 1ère année, passionné par le multimédia, le développement web et le modding général dans le moteur Source.
 
-## 🛠️ Langages et Outils
+## 🛠️ LANGES & OUTILS
 
 ### 🌐 Langages de Programmation
 
@@ -19,13 +19,14 @@ Je suis étudiant à l'**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-### 🎨 Outils Créatifs
+### 🎨 OUTILS CRÉATIFS
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-## 🌟 Projets
+## 🌟 PROJETS
 
 ### 🚀 Projets Personnels
 - **Ville RP sur le thème de Star Wars** : Un projet de jeu de rôle situé dans un environnement urbain futuriste utilisant le framework Helix sur Garry's Mod.
@@ -33,6 +34,6 @@ Je suis étudiant à l'**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi
 ### 🏆 Projets Professionnels
 - **Développeur Fullstack** : Mon projet professionnel actuel est d'aspirer à être un futur développeur fullstack avec une bonne compréhension des outils nécessaires tels que HTML, CSS en front-end et PHP en back-end ! Et même les outils de la suite Adobe qui me permettront de créer mes propres icônes et le style de mon site web !
 
-## 📫 Restons Connectés
+## 📫 LIENS
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamdominguez68@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-dominguez-793a8b329/)
