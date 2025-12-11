@@ -1,4 +1,4 @@
-https://imgur.com/a/Ep3TWXp
+https://imgur.com/a/Ep3TWXp.jpg
 Hello there! 
 
 I'm a student at the '**IUT de Mulhouse** ![UHA Logo](https://imgur.com/lcFWngi.png) in **BUT MMI** and currently in my second year. I'm also extremely passionate about the development of new technologies in multimedia and web development, as well as general modding in the Source Engine.
