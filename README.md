@@ -1,4 +1,4 @@
-![Header]([https://path_to_your_image/header.png](https://imgur.com/a/Ep3TWXp))
+![Header]([https://imgur.com/a/Ep3TWXp](https://imgur.com/a/Ep3TWXp.jpg))
 Étudiant en **BUT MMI parcours Développement Web** à l'UHA ![UHA Logo](https://imgur.com/lcFWngi.png)
 
 *Je regroupe sur ce dépôt l'ensemble de mes projets scolaires et personnels.*
