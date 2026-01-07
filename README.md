@@ -15,6 +15,7 @@
 ### Librairies JS
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
+![JQuery](https://img.shields.io/badge/JQuery-F5788D?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Back-End
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
