@@ -4,8 +4,8 @@
 # 🛠️ HARD-SKILLS
 
 ## 🌐 Langages de programmation
-
-## Front-End
+##
+### Front-End
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
@@ -18,8 +18,8 @@
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![A-Frame](https://img.shields.io/badge/AFrame-DA1F26?logo=aframe&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-
-## Back-End
+##
+### Back-End
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
