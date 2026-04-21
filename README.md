@@ -2,8 +2,6 @@
 Étudiant en **BUT MMI parcours Développement Web** à l'UHA ![UHA Logo](https://imgur.com/lcFWngi.png). Je regroupe sur ce dépôt l'ensemble de mes projets scolaires et personnels.
 
 # 🛠️ HARD-SKILLS
-
-## 🌐 Langages de programmation
 ##
 ### Front-End
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -25,7 +23,7 @@
 
 ### Librairies/Frameworks Back-End
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
-
+##
 ### CMS
 [![WordPress](https://img.shields.io/badge/WordPress-117AC9?logo=WordPress&logoColor=white)](#)
 [![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=PrestaShop&logoColor=white)](#)
