@@ -14,7 +14,7 @@
 
 ### Frameworks
 ## JavaScript
-[![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=aframe&logoColor=white)](#)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)](#)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![A-Frame](https://img.shields.io/badge/AFrame-DA1F26?logo=aframe&logoColor=white)](#)
