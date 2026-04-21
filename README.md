@@ -14,10 +14,10 @@
 
 ### Frameworks
 ## JavaScript
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=aframe&logoColor=white)](#)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-![A-Frame](https://img.shields.io/badge/AFrame-DA1F26?style=for-the-badge&logo=aframe&logoColor=white)
+[![A-Frame](https://img.shields.io/badge/AFrame-DA1F26?logo=aframe&logoColor=white)](#)
 
 ## Autre
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
