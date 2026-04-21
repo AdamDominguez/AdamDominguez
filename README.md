@@ -2,7 +2,7 @@
 Étudiant en **BUT MMI parcours Développement Web** à l'UHA ![UHA Logo](https://imgur.com/lcFWngi.png). Je regroupe sur ce dépôt l'ensemble de mes projets scolaires et personnels.
 
 # 🛠️ HARD-SKILLS
-##
+
 ### Front-End
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -16,6 +16,7 @@
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![A-Frame](https://img.shields.io/badge/AFrame-DA1F26?logo=aframe&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+
 ##
 ### Back-End
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -23,12 +24,14 @@
 
 ### Librairies/Frameworks Back-End
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
+
 ##
 ### CMS
 [![WordPress](https://img.shields.io/badge/WordPress-117AC9?logo=WordPress&logoColor=white)](#)
 [![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=PrestaShop&logoColor=white)](#)
 
-## ⚙️ Outils
+##
+### ⚙️ Outils
 ### Déploiement 
 [![WSL](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
@@ -47,7 +50,8 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-## 🎨 Outils créatifs
+##
+### 🎨 Outils créatifs
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
 ### Design & Maquettes
