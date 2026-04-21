@@ -31,7 +31,6 @@
 [![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=PrestaShop&logoColor=white)](#)
 
 ##
-### ⚙️ Outils
 ### Déploiement 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
@@ -50,7 +49,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 ##
-### 🎨 Outils créatifs
+### Création
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
 ### Design & Maquettes
