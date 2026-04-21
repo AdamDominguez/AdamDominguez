@@ -11,27 +11,26 @@
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
-### Frameworks
-## JavaScript
+### Librairies/Frameworks Front-End
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)](#)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![A-Frame](https://img.shields.io/badge/AFrame-DA1F26?logo=aframe&logoColor=white)](#)
-
-## Autre
-[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
 ### Back-End
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
+### Librairies/Frameworks Back-End
+[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
+
 ### CMS
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=PrestaShop&logoColor=white)
+[![WordPress](https://img.shields.io/badge/WordPress-117AC9?logo=WordPress&logoColor=white)](#)
+[![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=PrestaShop&logoColor=white)](#)
 
 ## ⚙️ Outils
-
 ### Déploiement 
 [![WSL](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
