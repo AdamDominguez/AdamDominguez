@@ -33,7 +33,6 @@
 ##
 ### ⚙️ Outils
 ### Déploiement 
-[![WSL](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=wsl&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
