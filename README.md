@@ -3,7 +3,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=cc0000&center=true&vCenter=true&width=435&lines=Apprenti+développeur+web+chez+UKOO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23A9E6&center=true&vCenter=true&width=435&lines=Apprenti+développeur+web+chez+UKOO" alt="Typing SVG" />
   
   <p>
     Étudiant en <b>BUT MMI parcours Développement Web</b> à l'UHA <img src="https://imgur.com/lcFWngi.png" width="18" align="absmiddle"/>. <br>
